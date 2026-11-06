@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/regebro/pyroma/commit/3062c977fab17aeb5fbf1af7251d97578be536af",
       "git:hexsha": "3062c977fab17aeb5fbf1af7251d97578be536af",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T02:19:44.448691+00:00"
     },
     {
       "@id": "https://repolex.ai/r/regebro/pyroma/commit/5f4cd5ad9fd443709491a0d9a9407fc0dda911de",
