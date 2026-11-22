@@ -3,6 +3,11 @@
   "repo": "pyroma",
   "versions": [
     {
+      "commit": "dd478a67d029502036973a9f596ec4b2c0614bf7",
+      "tag": "5.0.1",
+      "parsed_at": "2026-11-22T06:02:12.528691+00:00"
+    },
+    {
       "commit": "3062c977fab17aeb5fbf1af7251d97578be536af",
       "tag": "",
       "parsed_at": "2026-11-06T02:19:44.569806+00:00"
